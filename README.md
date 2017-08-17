@@ -2,8 +2,12 @@
 
 
    Name:       CameraSample
+   
    Author:     Manolescu Mihai Alexandru 
-   Language:   Swift 3 iOS: compatible with versions 7-10
+   
+   Language:   Swift 3 
+   
+   iOS: compatible with versions 7-10
 
    Functionalities:  It's nothing more than a sample that proves how easy it is to implement the access to 
 local camera and photo library in any app. 
